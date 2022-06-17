@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(./img/fondo.jpg);
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+}
+
+
+.nav-items{
+    color: white;
+}
+.es img{
+    display: flex;
+    justify-content: end;
+    font-size: 10px;
+    width: 30px;
+    text-align: center;
+}
+
+.container h1{
+    font-size: 30px;
+}
+.container1{
+    margin-top: 50px;
+    padding: 50px;
+    
+}
+.container-fluid a img{
+    width: 100px;
+    
+}
+.container{
+    color: rgb(255, 255, 255);
+}
+.footer{
+    display: flex;
+    justify-content: center; 
+    min-height: 100px;
+    padding: 10px;
+
+}
+.footer{
+display: flex;
+color: white;
+
+}
+.footer .icons{
+font-size: 50px;
+
+
+}
+.footer i{
+    padding: 10px;
+    color: white;
+}
+
+    
